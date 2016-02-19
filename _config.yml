@@ -7,6 +7,7 @@ tagline:             Software Engineer
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
+analytics_id:        UA-74071333-1
 
 # Assets
 #
