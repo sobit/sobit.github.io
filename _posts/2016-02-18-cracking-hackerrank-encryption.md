@@ -39,7 +39,9 @@ To have some base for the manual calculations, we are going to start by resolvin
 
 By placing these values into the first condition,
 
-    3 <= rows <= columns <= 4
+{% highlight text %}
+3 <= rows <= columns <= 4
+{% endhighlight %}
 
 we get the idea of the grid sizes available to us. Let's analyze each of them in the ascending order:
 
@@ -49,9 +51,11 @@ we get the idea of the grid sizes available to us. Let's analyze each of them in
 
 Based on the knowledge we've got, let's write our solution to the first step:
 
-    1. rows = columns = floor(sqrt(L))
-    2. if rows * columns < L then columns = ceil(sqrt(L))
-    3. if rows * columns < L then rows = ceil(sqrt(L))
+{% highlight text %}
+1. rows = columns = floor(sqrt(L))
+2. if rows * columns < L then columns = ceil(sqrt(L))
+3. if rows * columns < L then rows = ceil(sqrt(L))
+{% endhighlight %}
 
 And the actual code in [Go](https://golang.org/):
 
@@ -78,16 +82,20 @@ func detectGridSize(l int) (int, int) {
 
 Using the values we calculated (`rows = 3` and `columns = 4`), let's represent our initial string in the form of a grid:
 
-    hav
-    ani
-    ced
-    ay
+{% highlight text %}
+hav
+ani
+ced
+ay
+{% endhighlight %}
 
 Populating the grid is fairly simple:
 
-    1. iterate i from 0 to rows
-    2.   iterate j from 0 to columns
-    3.     if i*N+j is less than string length, equal G[i][j] to S[i*N+j]
+{% highlight text %}
+1. iterate i from 0 to rows
+2.   iterate j from 0 to columns
+3.     if i*N+j is less than string length, equal G[i][j] to S[i*N+j]
+{% endhighlight %}
 
 And the code in Go:
 
@@ -109,10 +117,12 @@ func populateGrid(g [][]byte, s string) {
 The remaining piece of the problem is to display the resulted grid. The first column constructs the first word, followed
 by a space, followed by the word constructed from the second column, and so on:
 
-    1. iterate j from 0 to columns
-    2.   iterate i from 0 to rows
-    3.     if G[i][j] is set then print G[i][j]
-    4.   print " "
+{% highlight text %}
+1. iterate j from 0 to columns
+2.   iterate i from 0 to rows
+3.     if G[i][j] is set then print G[i][j]
+4.   print " "
+{% endhighlight %}
 
 The code implementation:
 
