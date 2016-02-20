@@ -18,6 +18,7 @@ English. So let's get it started!
 
 Our today's problem - "Encryption" ([link to the challenge](https://www.hackerrank.com/challenges/encryption)).
 
+<!--more-->
 
 ## Step 1. Detect the grid size
 
