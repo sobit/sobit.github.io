@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Sobit
 tagline:             Software Engineer
 url:                 http://sobit.me
-paginate:            1
+paginate:            3
 baseurl:             ""
 excerpt_separator:   <!--more-->
 analytics_id:        UA-74071333-1

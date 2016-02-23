@@ -1,7 +1,7 @@
 ---
-layout: post
+layout:   post
 comments: true
-title:  Cracking Hackerrank - Encryption
+title:    Cracking Hackerrank - Encryption
 ---
 
 As a friend of mine loves to say, "The best way to learn a programming language is to start writing algorithms in it".
