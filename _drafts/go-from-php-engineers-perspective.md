@@ -239,18 +239,18 @@ in the result the function produces? This is where channels come to play:
 
 {% highlight go %}
 func getName(id int, c chan string) {
-	c <- someHeavyOperationToFindTheName(id)
+    c <- someHeavyOperationToFindTheName(id)
 }
 
 func main() {
-	c := make(chan string, 2) // allocate a channel
+    c := make(chan string, 2) // allocate a channel
 
-	go getName(1, c) // trigger
-	go getName(2, c) // don't wait and trigger again
+    go getName(1, c) // trigger
+    go getName(2, c) // don't wait and trigger again
 
-	// keep doing other stuff
+    // keep doing other stuff
 
-	fmt.Printf("Employees: %s, %s", <-c, <-c) // combine
+    fmt.Printf("Employees: %s, %s", <-c, <-c) // combine
 }
 {% endhighlight %}
 

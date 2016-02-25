@@ -85,10 +85,9 @@ func detectGridSize(l int) (int, int) {
 Using the values we calculated (`rows = 3` and `columns = 4`), let's represent our initial string in the form of a grid:
 
 {% highlight text %}
-hav
-ani
-ced
-ay
+have
+anic
+eday
 {% endhighlight %}
 
 Populating the grid is fairly simple:
