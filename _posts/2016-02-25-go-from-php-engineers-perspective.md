@@ -1,5 +1,6 @@
 ---
 layout:   post
+comments: true
 title:    Go from PHP engineer's perspective
 ---
 
