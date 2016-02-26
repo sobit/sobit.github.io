@@ -124,7 +124,7 @@ var name = "sobit"
 name := "sobit"
 {% endhighlight %}
 
-Now, let's remember how do we swap values of two variables in PHP:
+Now, let’s remember how we swap values of two variables in PHP:
 
 {% highlight php %}
 <?php
@@ -208,8 +208,8 @@ e := Employee{
 }
 {% endhighlight %}
 
-There are tons of other features I'm eager to talk about, but that would make me duplicating the great [Effective Go]
-document from the official website and producing a never ending article. But I would like to take a little moment to
+There are tons of other features I’m eager to talk about, but that would have me duplicate the great [Effective Go]
+document from the official website and producing a never-ending article. But I would like to take a little moment to
 introduce you to the concurrency in Go, which I find to be one of the most interesting topics about the language. Before
 we jump in, two things you need to know about concurrency in Go - *goroutines* and *channels*.
 
@@ -227,7 +227,7 @@ func heartbeat() {
 {% endhighlight %}
 
 Now, how do we run it so that it executes in the background and allows us to do other things in parallel? The answer is
-easier that you might think of, just prefix the call with `go`:
+easier than you might think of, just prefix the call with `go`:
 
 {% highlight go %}
 go heartbeat()
