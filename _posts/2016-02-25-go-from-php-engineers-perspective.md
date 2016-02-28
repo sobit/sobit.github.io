@@ -1,7 +1,10 @@
 ---
-layout:   post
-comments: true
-title:    Go from PHP engineer's perspective
+layout:      post
+comments:    true
+title:       Go from PHP engineer's perspective
+description: An introduction to Go programming language from PHP engineer's perspective. Answers few questions, such as
+             why PHP alone is not enough, what are the problems PHP engineers struggle with and how some of them can be
+             solved with Go.
 ---
 
 ![Gopher](/assets/gopher.jpg)

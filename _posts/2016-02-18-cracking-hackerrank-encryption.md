@@ -1,7 +1,9 @@
 ---
-layout:   post
-comments: true
-title:    Cracking Hackerrank - Encryption
+layout:      post
+comments:    true
+title:       Cracking Hackerrank - Encryption
+description: A step-by-step tutorial on solving the algorithmic problem from Hackerrank called "Encryption" in Go
+             programming language including the whole analyzing part and code snippets.
 ---
 
 As a friend of mine loves to say, "The best way to learn a programming language is to start writing algorithms in it".
