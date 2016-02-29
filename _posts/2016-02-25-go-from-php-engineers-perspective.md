@@ -382,8 +382,7 @@ and entirely native or SDK [applications for iOS and Android].
 
 ---
 
-The topic was presented at [GetYourGuide]'s internal tech talk with these slides:
-
-<iframe src="https://docs.google.com/presentation/d/1wGolsrpGfCDlRrJ8tauXxN9Qv0Dm2JOL-P5dNEnj1A8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+The topic was presented at [GetYourGuide]'s internal tech talk. The slides are available [on SlideShare].
 
 [GetYourGuide]: http://careers.getyourguide.com/teams/engineering
+[on SlideShare]: http://www.slideshare.net/sobitakhmedov/go-from-php-engineers-perspective-58815868
