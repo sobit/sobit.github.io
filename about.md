@@ -13,5 +13,6 @@ Experienced in SQL, NoSQL, Git, Bash, Puppet, Docker, HTML, CSS, many others.
 | Location | Berlin, Germany |
 | Employer | [GetYourGuide](https://www.getyourguide.com/) |
 | Email | [sobit.akhmedov@gmail.com](mailto:sobit.akhmedov@gmail.com) |
+| LinkedIn | [/in/sobit](https://de.linkedin.com/in/sobit) |
 | GitHub | [sobit](http://github.com/sobit) |
 | Twitter | [@dront7](https://twitter.com/dront7) |
