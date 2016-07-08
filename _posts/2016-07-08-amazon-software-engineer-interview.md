@@ -3,8 +3,8 @@ layout:      post
 comments:    true
 title:       Amazon software engineer interview
 description: >
-    Personal experience on being hired as a software development engineer at Amazon. Detailed interview process and
-    preparation tips.
+    Personal experience on being hired as a software development engineer at Amazon. Detailed interview process,
+    preparation tips, and more.
 ---
 
 ![Amazon - We Pioneer](/assets/amazon-we-pioneer.jpg)

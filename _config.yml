@@ -3,9 +3,9 @@ permalink:           pretty
 
 # Setup
 title:               Sobit Akhmedov
-description:         Sobit Akhmedov is a backend/infrastructure/scalability specialist with sufficient background in
-                     managing high load production stacks, currently living in Berlin, Germany and working at
-                     GetYourGuide.
+description:         >
+                     Sobit Akhmedov is a backend/infrastructure/scalability specialist with sufficient background in
+                     managing high load production stacks. Currently lives in Berlin, Germany and works at GetYourGuide.
 tagline:             Software Engineer
 url:                 http://sobit.me
 paginate:            3
