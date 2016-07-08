@@ -84,7 +84,7 @@ my availability for the week to schedule a phone call and review my technical sk
 on-site interview. We agreed on May 4th.
 
 
-### Preparation
+### Brushup
 
 I only had two days so I brushed up on the essentials in algorithms and data structures. Specifically, I focused on the
 following:
@@ -216,18 +216,11 @@ June 16: Offer
 --------------
 
 It took Amazon eight days to make a decision. A recruiter from the Berlin office sent me an email on Friday evening
-saying that I was selected for the position. We scheduled a call on Monday, June 13th, to discuss the details. Three
-more days then passed, and on June 16th I received the final offer with the numbers.
+saying that I was selected for the position. We discussed details on Monday, and three days after, on June 16th, I
+received the final offer with the numbers.
 
-I prepared the list of questions I sent back via the same email thread and asked for another call. On the following day
-we clarified them as well as a few others I needed for my resignation process at my current company, and shortly after
-an official YES was sent to Amazon.
-
-
-June XX: Contract
------------------
-
-...
+Following day we clarified a list of questions I had as well as a few others I needed for my resignation process at my
+current company. Shortly after an official YES was sent to Amazon.
 
 
 References
