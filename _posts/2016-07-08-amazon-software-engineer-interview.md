@@ -51,6 +51,11 @@ proficient in. So I ended up choosing [Java].
 
 The test consisted of three problems which could technically be solved in no particular order.
 
+[Hackerrank for Work]: https://www.hackerrank.com/work
+[Go]: https://golang.org/
+[PHP]: http://php.net/
+[Java]: https://www.oracle.com/java/index.html
+
 
 ### Problems
 
@@ -69,11 +74,6 @@ prioritization. Lesson learned.
 The third and the last problem was about analyzing complexity for the solution given in the previous problem. I was
 supposed to explain it as well as justify why I thought it was best from my point of view. However, I covered only the
 main aspects due to the lack of time.
-
-[Hackerrank for Work]: https://www.hackerrank.com/work
-[Go]: https://golang.org/
-[PHP]: http://php.net/
-[Java]: https://www.oracle.com/java/index.html
 
 
 May 4: Phone screening
@@ -96,6 +96,20 @@ following:
 Of course, *you need to be able to argue about the complexity of algorithms and common operations on data structures*.
 I personally found [Wikipedia] to be a great resource for this kind of analysis.
 
+[bubble sort]: https://en.wikipedia.org/wiki/Bubble_sort
+[quicksort]: https://en.wikipedia.org/wiki/Quicksort
+[merge sort]: https://en.wikipedia.org/wiki/Merge_sort
+[linear search]: https://en.wikipedia.org/wiki/Linear_search
+[binary search]: https://en.wikipedia.org/wiki/Binary_search_algorithm
+[linked list]: https://en.wikipedia.org/wiki/Linked_list
+[hash table]: https://en.wikipedia.org/wiki/Hash_table
+[array]: https://en.wikipedia.org/wiki/Array_data_structure
+[tree]: https://en.wikipedia.org/wiki/Tree_(data_structure)
+[binary search tree]: https://en.wikipedia.org/wiki/Binary_search_tree
+[stack]: https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+[queue]: https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+[Wikipedia]: https://www.wikipedia.org/
+
 
 ### Phone call
 
@@ -111,22 +125,9 @@ matching stories for each question right there.
 She then expressed her positivity about my skills and we ended up the call. At the same moment I ordered an interview
 preparation book (listed in the [References] section). And I ordered it on Amazon, by the way.
 
-[References]: #references
-[bubble sort]: https://en.wikipedia.org/wiki/Bubble_sort
-[quicksort]: https://en.wikipedia.org/wiki/Quicksort
-[merge sort]: https://en.wikipedia.org/wiki/Merge_sort
-[linear search]: https://en.wikipedia.org/wiki/Linear_search
-[binary search]: https://en.wikipedia.org/wiki/Binary_search_algorithm
-[linked list]: https://en.wikipedia.org/wiki/Linked_list
-[hash table]: https://en.wikipedia.org/wiki/Hash_table
-[array]: https://en.wikipedia.org/wiki/Array_data_structure
-[tree]: https://en.wikipedia.org/wiki/Tree_(data_structure)
-[binary search tree]: https://en.wikipedia.org/wiki/Binary_search_tree
-[stack]: https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
-[queue]: https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
-[Wikipedia]: https://www.wikipedia.org/
 [dynamic programming]: https://en.wikipedia.org/wiki/Dynamic_programming
 [recursion]: https://en.wikipedia.org/wiki/Recursion_(computer_science)
+[References]: #references
 
 
 June 2: On-site interview
@@ -149,7 +150,7 @@ In total I had a little less than one month to prepare for the interview. I knew
 interview preparation book completely, so I decided to solve three exercises from each section. The whole thought
 process as well as iterations over solutions were translated onto paper and then compared to the answers at the end of
 the book. *Black-color pen was used to write solutions, while red-color pen was used to mark errors. The idea was to
-have less red with every following exercise.*
+have less red with every following exercise*.
 
 Another good source I found for practicing coding skills was [LeetCode]. As a coincidence, a friend of mine decided to
 brush up on his skills too, so we dedicated two hours of each Thursday evening to work on LeetCode problems together.
