@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-A pragmatic and agile full-stack software engineer. Backend/infrastructure/scalability specialist with sufficient
+A pragmatic and agile full-stack software engineer. Backend, infrastructure, scalability specialist with sufficient
 background in managing high load production stacks.
 
 Proficient Go / Java / PHP / NodeJS engineer.
