@@ -30,9 +30,14 @@ author:
 # Custom vars
 version:             2.0.0
 
+# Atom feed
+feed:
+  path:              atom.xml
+
 # Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
