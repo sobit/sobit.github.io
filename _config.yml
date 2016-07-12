@@ -1,24 +1,19 @@
 # Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 # Setup
 title:               Sobit Akhmedov
+tagline:             Software Engineer
 description:         >
                      Sobit Akhmedov is a backend/infrastructure/scalability specialist with sufficient background in
                      managing high load production stacks. Currently lives in Berlin, Germany and works at GetYourGuide.
-tagline:             Software Engineer
 url:                 http://sobit.me
 paginate:            3
 baseurl:             ""
 excerpt_separator:   <!--more-->
 analytics_id:        UA-74071333-1
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
 
 # About/contact
 author:
@@ -28,7 +23,7 @@ author:
   twitter:           dront7
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 
 # Atom feed
 feed:
