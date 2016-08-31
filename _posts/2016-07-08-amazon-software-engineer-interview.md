@@ -242,3 +242,15 @@ Abdujabborov] and [Umed Khudoiberdiev].
 [Anton Popov]: https://de.linkedin.com/in/antonpopovprofile
 [Sherzod Abdujabborov]: https://de.linkedin.com/in/sherzoda
 [Umed Khudoiberdiev]: https://github.com/pleerock
+
+---
+
+The article was translated and published in the following languages:
+
+- [Russian (via habrahabr.ru)](https://habrahabr.ru/post/305340/)
+- [Japanese (via postd.cc)](http://postd.cc/amazon-software-engineer-interview/)
+
+It has also generated some interesting discussions in the community:
+
+- [Reddit](https://www.reddit.com/r/programming/comments/4rwhfe/amazon_software_engineer_interview/)
+- [Hacker News](https://news.ycombinator.com/item?id=12058045)
