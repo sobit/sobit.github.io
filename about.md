@@ -6,7 +6,7 @@ title: About
 A pragmatic and agile full-stack software engineer. Backend, infrastructure, scalability specialist with sufficient
 background in managing high load production stacks.
 
-Proficient Go / Java / PHP / NodeJS engineer.
+Proficient Kotlin / Java / Go / NodeJS / PHP engineer.
 
 Experienced in SQL, NoSQL, Git, Bash, Puppet, Docker, HTML, CSS, many others.
 
