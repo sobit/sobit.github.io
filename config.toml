@@ -4,7 +4,6 @@ title = "Sobit Akhmedov"
 theme = "lanyon"
 disqusShortname = "sobit"
 googleAnalytics = "UA-123-45"
-publishDir = "docs"
 
 [permalinks]
   posts = "/:year/:month/:day/:title/"
