@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sobit Akhmedov"
+theme = "lanyon"
+disqusShortname = "sobit"
+googleAnalytics = "UA-123-45"
+publishDir = "docs"
+
+[permalinks]
+  posts = "/:year/:month/:day/:title/"
+
+[params]
+  title = "Sobit Akhmedov"
+  tagline = "Software Engineer"
+  description = "Sobit Akhmedov is a backend, infrastructure, scalability specialist with sufficient background in managing high load production stacks. Currently lives in Berlin, Germany and works at Amazon."
+
+[markup]
+  [markup.highlight]
+    style = "tango"
+  [markup.goldmark.renderer]
+    unsafe = true
