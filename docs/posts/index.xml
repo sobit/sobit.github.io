@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sobit Akhmedov</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Sobit Akhmedov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazon software engineer interview</title>
+      <link>http://example.org/2016/07/08/amazon-software-engineer-interview/</link>
+      <pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/2016/07/08/amazon-software-engineer-interview/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/amazon-we-pioneer.jpg&#34; alt=&#34;Amazon - We Pioneer&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I was recently contacted by a technical recruiter from Amazon. The company was hosting an interview event for software
+engineers to join a team in their Berlin office.&lt;/p&gt;
+&lt;p&gt;The whole process from being contacted to signing the contract took two months. I would like to share my experience on
+how it went in general as well as what I believe helped me pass it successfully.&lt;/p&gt;
+&lt;p&gt;If I failed to mention something important in this article, feel free to start a discussion in the comments section.
+There I will try to be as detailed as possible.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Go from PHP engineer&#39;s perspective</title>
+      <link>http://example.org/2016/02/25/go-from-php-engineers-perspective/</link>
+      <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/2016/02/25/go-from-php-engineers-perspective/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/gopher.jpg&#34; alt=&#34;Gopher&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As a PHP engineer, have you ever asked yourself whether you need to master other programming languages?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://php.net/&#34;&gt;PHP&lt;/a&gt; has been the language of choice for building a full-stack monolithic applications for many companies and many
+years. Furthermore, in the last 5 years frameworks (&lt;a href=&#34;http://symfony.com/&#34;&gt;Symfony&lt;/a&gt;, &lt;a href=&#34;https://laravel.com/&#34;&gt;Laravel&lt;/a&gt;, &lt;a href=&#34;http://framework.zend.com/&#34;&gt;Zend&lt;/a&gt;), tools (&lt;a href=&#34;https://getcomposer.org/&#34;&gt;Composer&lt;/a&gt;, &lt;a href=&#34;https://github.com/Seldaek/monolog&#34;&gt;Monolog&lt;/a&gt;) and
+rapidly growing community (&lt;a href=&#34;http://www.php-fig.org/&#34;&gt;PHP-FIG&lt;/a&gt;) helped many engineers to build enterprise level software applications. Many
+companies, such as Facebook, Yahoo!, Wikipedia, Wordpress, Tumblr, had pure PHP in their early days, and that didn&amp;rsquo;t
+hold them back from becoming successful over the years.&lt;/p&gt;
+&lt;p&gt;However, a successful business grows, so grows the number of engineers it needs to support the growth. Organizational
+structure of the company indicates that the existing monolith is better be split apart. At some point the strategy
+stabilizes and teams now focus on independent services instead.&lt;/p&gt;
+&lt;p&gt;In this article we will try to evaluate how far can PHP alone take us and where &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; can step in and solve problems we
+will face down the road.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cracking Hackerrank - Encryption</title>
+      <link>http://example.org/2016/02/18/cracking-hackerrank-encryption/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/2016/02/18/cracking-hackerrank-encryption/</guid>
+      <description>&lt;p&gt;As a friend of mine loves to say, &amp;ldquo;The best way to learn a programming language is to start writing algorithms in it&amp;rdquo;.
+While that most probably won&amp;rsquo;t make you the language expert, there&amp;rsquo;s a high chance that you will face most of the data
+structures it provides as well as feel the power of it&amp;rsquo;s unique language constructs.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;re lots of good resources to help you get started, but I prefer to spend my spare time on
+&lt;a href=&#34;https://www.hackerrank.com/&#34;&gt;Hackerrank&lt;/a&gt;. It&amp;rsquo;s free, has pleasant user interface and a solid selection of algorithmic
+problems conveniently broken down into categories and difficulty levels.&lt;/p&gt;
+&lt;p&gt;After solving each problem, the whole analyzing part is usually getting thrown out. And that pointed me to the idea of
+writing the way of thinking into blog posts. Always good to look back and see how good you were and how bad was your
+English. So let&amp;rsquo;s get it started!&lt;/p&gt;
+&lt;p&gt;Our today&amp;rsquo;s problem - &amp;ldquo;Encryption&amp;rdquo; (&lt;a href=&#34;https://www.hackerrank.com/challenges/encryption&#34;&gt;link to the challenge&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
