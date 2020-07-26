@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sobit.me/"
 languageCode = "en-us"
 title = "Sobit Akhmedov"
 theme = "lanyon"
