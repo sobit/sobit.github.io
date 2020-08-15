@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Sobit Akhmedov"
 theme = "lanyon"
 disqusShortname = "sobit"
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-74071333-1"
 
 [permalinks]
   posts = "/:year/:month/:day/:title/"
