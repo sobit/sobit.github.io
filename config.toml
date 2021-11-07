@@ -10,8 +10,8 @@ googleAnalytics = "UA-74071333-1"
 
 [params]
   title = "Sobit Akhmedov"
-  tagline = "Software Engineer"
-  description = "Sobit Akhmedov is a backend, infrastructure, scalability specialist with sufficient background in managing high load production stacks. Currently lives in Berlin, Germany and works at Amazon."
+  tagline = "Staff Software Engineer"
+  description = "Sobit Akhmedov is a staff software engineer with 14 years experience building e-commerce, financial and cloud storage solutions for startup and Big Five companies."
 
 [markup]
   [markup.highlight]
