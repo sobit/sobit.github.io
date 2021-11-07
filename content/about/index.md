@@ -3,12 +3,9 @@ title: About
 type: fixed
 ---
 
-A pragmatic and agile full-stack software engineer. Backend, infrastructure, scalability specialist with sufficient
-background in managing high load production stacks.
+Staff software engineer with 14 years experience building e-commerce, financial and cloud storage solutions for startup and Big Five companies. Managed full software development life cycle projects over 6 months duration, leading teams up to 8 people. Operated distributed service fleets spanning over 7k servers and handling over 400k requests per second.
 
-Proficient Kotlin / Java / Go / NodeJS / PHP engineer.
-
-Experienced in SQL, NoSQL, Git, Bash, Puppet, Docker, HTML, CSS, many others.
+Core competencies include Software Development, Distributed Systems, Cloud Computing, Event-Driven Architecture, Microservices, API Design, Object-Oriented Programming, Design Patterns, Relational and Non-Relational Databases, Agile Methodologies, Coaching and Mentoring.
 
 |          |                                                             |
 | -------- | ----------------------------------------------------------- |
